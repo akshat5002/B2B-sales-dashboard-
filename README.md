@@ -26,4 +26,5 @@ Leveraging these points can help refine strategies for improvement and expansion
 
 ## resporty and data set >
 data: https://github.com/akshat5002/B2B-sales-dashboard-/blob/main/Details.csv
-image: 
+image: https://github.com/akshat5002/B2B-sales-dashboard-/blob/main/Screenshot%202025-03-27%20021721.png
+powerbi: 
